@@ -33,6 +33,5 @@ The task involves extracting, analyzing, and summarizing insights from structure
 ## 📌 Notes
 - The database is not included as a `.sql` dump in this repo.
 - Only the queries and dataset screenshots are provided.
-
----
+  
 💡 *Created for SQL learning and practice purposes.*
