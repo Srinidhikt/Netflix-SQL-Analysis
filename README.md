@@ -7,9 +7,9 @@ This project performs SQL-based data analysis on the Netflix dataset.
 The task involves extracting, analyzing, and summarizing insights from structured data using SQL queries.
 
 ## 📂 Project Contents
-- **sql_queries_t4.sql** → Contains all SQL queries for the analysis.
-- **screenshots/** → Folder containing screenshots of the dataset (and outputs if available).
-- **netflix_titles.xlsx** → Original dataset used for reference.
+- Contains all SQL queries for the analysis.
+- Folder containing screenshots of the dataset (and outputs if available).
+- Original dataset used for reference.
 
 ## 🛠 Tools Used
 - MySQL Workbench (for running SQL queries)
